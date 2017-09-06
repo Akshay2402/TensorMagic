@@ -1,0 +1,7 @@
+#Sat Aug 26 10:20:48 IST 2017
+base.0=/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ab60af33f282887cdde117cc7e63281793093c73
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b6c1dd57d80426105edd55776dc4ec71317285ca/classes.dex
+base.1=/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b6c1dd57d80426105edd55776dc4ec71317285ca
+file.0=/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ab60af33f282887cdde117cc7e63281793093c73/classes.dex

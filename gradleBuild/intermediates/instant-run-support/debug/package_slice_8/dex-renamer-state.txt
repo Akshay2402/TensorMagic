@@ -1,0 +1,4 @@
+#Sat Aug 19 13:04:59 IST 2017
+base.0=/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

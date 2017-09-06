@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment.xml",
+        "source": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/res/layout/camera_connection_fragment.xml"
+    },
+    {
+        "merged": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/layout/activity_launcher.xml",
+        "source": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/res/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_stylize.xml",
+        "source": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/res/layout/camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_tracking.xml",
+        "source": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/res/layout/camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/res/layout/activity_camera.xml"
+    }
+]

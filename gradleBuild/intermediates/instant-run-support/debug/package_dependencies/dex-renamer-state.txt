@@ -1,0 +1,10 @@
+#Sat Aug 26 10:11:14 IST 2017
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.2=/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/classes_0c774217c626ab5a9b7a083f743d7c5b836564b0
+base.1=/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0da8866e1160d40531db3f531b60692672cfe11a
+base.0=/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/classes_97d6c6ec57b33cef40c609426061a4d3df497ec1
+file.2=/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/classes_0c774217c626ab5a9b7a083f743d7c5b836564b0/classes.dex
+file.1=/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0da8866e1160d40531db3f531b60692672cfe11a/classes.dex
+file.0=/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/classes_97d6c6ec57b33cef40c609426061a4d3df497ec1/classes.dex

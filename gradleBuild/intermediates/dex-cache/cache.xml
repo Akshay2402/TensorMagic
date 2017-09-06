@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/akshay/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0da8866e1160d40531db3f531b60692672cfe11a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akshay/.android/build-cache/8e852449e9cbb29fff58962be0e0d678154d40a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/classes_0c774217c626ab5a9b7a083f743d7c5b836564b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ff897d60be693e197656be19adfa3f7e6be1803">
+        <dex dex="/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b6c1dd57d80426105edd55776dc4ec71317285ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ab60af33f282887cdde117cc7e63281793093c73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akshay/.android/build-cache/4240edb475cd823a34317a68f9a290d433f695fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/classes_97d6c6ec57b33cef40c609426061a4d3df497ec1/classes.dex" />
+    </item>
+
+</items>

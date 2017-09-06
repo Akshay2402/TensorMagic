@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_info.png",
+        "source": "/home/akshay/Desktop/python_tensorflow/Android/tensorflow-for-poets-2/android/res/drawable-xxhdpi/ic_action_info.png"
+    }
+]
